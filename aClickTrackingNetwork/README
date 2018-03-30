@@ -1,0 +1,2 @@
+1 nn.db 是sqlite数据库，其中已有数据
+2 直接执行python aClickTrack.py即可
